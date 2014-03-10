@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 24 Feb 2014 04:00:00 -0000</updated>
-    <lastBuildDate>Mon, 24 Feb 2014 04:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 24 Feb 2014 04:00:00 -0000</pubDate>
+    <updated>Mon, 10 Mar 2014 04:00:00 -0000</updated>
+    <lastBuildDate>Mon, 10 Mar 2014 04:00:00 -0000</lastBuildDate>
+    <pubDate>Mon, 10 Mar 2014 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,42 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#46 和为知笔记的CTO聊聊他的经历和技术</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 和&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;的CTO老魏聊聊他的入行经历，以及他们产品中的一些技术选型。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Pascal_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)"&gt;Pascal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Fortran"&gt;Fortran&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://www.gotealeaf.com"&gt;Kevin Wang&lt;/a&gt;主持, 和&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;的CTO老魏聊聊他的入行经历，以及他们产品中的一些技术选型。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Pascal_(%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)"&gt;Pascal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/Fortran"&gt;Fortran&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Turbo_cC"&gt;Tubo C&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Turbo_Pascal"&gt;Tubo Pascal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://linux.wps.cn/"&gt;WPS Office&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://daringfireball.net/projects/markdown/syntax"&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.latex-project.org/"&gt;LaTex&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://freemarker.org/"&gt;FreeMarker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.adobe.com/products/indesign.html"&gt;InDesign&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/WizTeam/WizQTClient"&gt;WizQTClient&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.iconfont.cn/"&gt;iconfont&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.edx.org/course/louvainx/louvainx-louv1-01x-paradigms-computer-1203"&gt;Paradigms of Computer Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <link>http://teahour.fm/2014/03/10/interview-with-laowei.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_46.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_46.m4a</guid>
+      <pubDate>Mon, 10 Mar 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>5932</itunes:duration>
+      <itunes:keywords>node</itunes:keywords>
+    </item>
     <item>
       <title>#45 和《深入浅出Node.js》作者朴灵一起聊聊Node.js</title>
       <itunes:author>terry</itunes:author>

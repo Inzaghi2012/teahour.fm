@@ -48,7 +48,7 @@
   &lt;li&gt;&lt;a href="http://www.wiz.cn/index.html"&gt;为知笔记&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://daringfireball.net/projects/markdown/syntax"&gt;Markdown&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.latex-project.org/"&gt;LaTex&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.adobe.com/cn/products/framemaker.html/"&gt;FreeMaker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.adobe.com/cn/products/framemaker.html/"&gt;FrameMaker&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.adobe.com/products/indesign.html"&gt;InDesign&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://github.com/WizTeam/WizQTClient"&gt;WizQTClient&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.iconfont.cn/"&gt;iconfont&lt;/a&gt;&lt;/li&gt;
@@ -196,7 +196,7 @@
   &lt;li&gt;&lt;a href="http://weibo.com/andor27"&gt;Andor Chen&lt;/a&gt; 提供的 3本 &lt;a href="http://railstutorial-china.org/"&gt;Ruby on Rails Tutorial 中文版&lt;/a&gt;电子书&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 提供的3本 &lt;a href="https://leanpub.com/rails-101"&gt;Rails 101&lt;/a&gt; 电子书以及 3份一年期的&lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt;高级帐号。&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://peatio.com/"&gt;貔貅交易所&lt;/a&gt; 提供的3个比特币红包&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.yunti.me/"&gt;云梯&lt;/a&gt; 提供的3个免费vpn帐号(可使用三个月)&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.ytvpn.com/"&gt;云梯&lt;/a&gt; 提供的3个免费 VPN 帐号(可使用3个月)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
@@ -1178,7 +1178,7 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.vpncloud.co/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
@@ -1195,7 +1195,7 @@
     <item>
       <title>#22 GFW 技术研究和云梯产品故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.vpncloud.co"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
@@ -1205,7 +1205,7 @@
 &lt;/ul&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.vpncloud.co"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
@@ -1216,7 +1216,7 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.vpncloud.co/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/防火长城"&gt;GFW&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
